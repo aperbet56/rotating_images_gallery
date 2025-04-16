@@ -6,7 +6,7 @@ Création d'une galerie d'images tournante. L'utilisateur peut stopper la rotati
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/rotating_images_gallery/
 
 ## Projet développé avec
 
